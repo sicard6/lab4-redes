@@ -1,0 +1,5 @@
+fecha: Tue Oct 16 20:59:00 COT 2018
+500.txt , cantidad de paquetes enviados:8192 , tamanio del paquete (con encabezado): 64KB
+Funciono, cantidad de paquetes recibidos, tiempo, cliente
+false,8148,48238,1
+false,8148,48284,2

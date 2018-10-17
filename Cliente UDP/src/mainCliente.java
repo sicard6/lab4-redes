@@ -3,7 +3,7 @@ public class mainCliente {
 
 	public static Cliente c;
 	public static int PORT_SERVER = 8080;
-	public static String IP_ADRESS = "157.253.205.64";//localhost
+	public static String IP_ADRESS = "157.253.205.64";//157.253.205.64
 	
 	public mainCliente() {
 		// TODO Auto-generated constructor stub

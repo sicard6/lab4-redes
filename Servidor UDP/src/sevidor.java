@@ -14,7 +14,7 @@ import java.util.Date;
 
 
 public class sevidor {
-	private final static int TAMANIO_PKT = 64000;
+	private int TAMANIO_PKT = 64000;
 
 	private String path1 = "data/250.txt";
 	private String path2 = "data/500.txt";
@@ -113,6 +113,10 @@ public class sevidor {
 		System.out.println("numero de la prueba");
 		inFromUser = new BufferedReader(new InputStreamReader(System.in));
 		prueba = inFromUser.readLine();
+		
+		System.out.println("tamanio en paquetes");
+		inFromUser = new BufferedReader(new InputStreamReader(System.in));
+		TAMANIO_PKT = Integer.parseInt(inFromUser.readLine());
 		
 		receiveData = new byte[1024];
 		sendData = new byte[TAMANIO_PKT];

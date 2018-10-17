@@ -98,6 +98,7 @@ public class Cliente {
 		sendData = sentence.getBytes();
 		DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, adress, port);
 		clientSoket.send(sendPacket);
+		System.out.println("se ha realizado la conexion exitosamente");
 		
 	}
 

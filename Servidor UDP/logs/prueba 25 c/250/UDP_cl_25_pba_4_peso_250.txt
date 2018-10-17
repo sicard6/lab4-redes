@@ -1,0 +1,28 @@
+fecha: Tue Oct 16 22:31:47 COT 2018
+250.txt , cantidad de paquetes enviados:4096 , tamanio del paquete (con encabezado): 64KB
+Funciono, cantidad de paquetes recibidos, tiempo, cliente
+false,4091,26066,1
+false,4091,26002,2
+false,4078,25504,3
+false,4091,26035,4
+false,4089,25874,5
+false,4048,25379,6
+false,4090,26102,7
+false,4089,25659,8
+false,4024,25152,9
+false,4042,25281,10
+false,3986,24743,11
+false,4046,25174,12
+false,4043,25225,13
+false,4020,25059,14
+false,3951,24261,15
+false,4052,25484,16
+false,3942,24268,17
+false,3979,24708,18
+false,3939,24337,19
+false,3958,24612,20
+false,3984,24868,21
+false,4046,25139,22
+false,3969,24591,23
+false,4090,25826,24
+false,4013,24998,25
